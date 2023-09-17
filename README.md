@@ -15,9 +15,7 @@
 
 - 📫 How to reach me at **manojkumar.g.k@outlook.com**
 
-- 📄 Know about my experiences [my resume](https://manojkumar.vercel.app/static/manoj_resume.pdf)
-
-- ⚡ Fun fact **If you believe you can do it. you will do it.**
+- 📄 Know about my experiences - [resume](https://manojkumar.vercel.app/static/manoj_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
