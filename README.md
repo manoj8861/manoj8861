@@ -7,15 +7,15 @@
 
 - 🚀 My Portfolio link - [https://manojkumar.vercel.app/](https://manojkumar.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/manoj8861](https://github.com/manoj8861)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/manoj8861)
 
-- 📝 I regularly write small tech blogs on [https://github.com/manoj8861](https://github.com/manoj8861)
+- 📝 I often write small tech blogs on [my Website/Blog/Portfolio](https://manojkumar.vercel.app/)
 
 - 💬 Ask me about **C#, .Net Web API, Angular, python ..**
 
 - 📫 How to reach me at **manojkumar.g.k@outlook.com**
 
-- 📄 Know about my experiences [https://manojkumar.vercel.app/static/manoj_resume.pdf](https://manojkumar.vercel.app/static/manoj_resume.pdf)
+- 📄 Know about my experiences [my resume](https://manojkumar.vercel.app/static/manoj_resume.pdf)
 
 - ⚡ Fun fact **If you believe you can do it. you will do it.**
 
