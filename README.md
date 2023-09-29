@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/manoj8861/portfolio)
 
-- 🌱 I’m currently learning **Machine Learning, Rust,GraphQL, Django and Flask and much more...**
+- 🌱 I’m currently learning **GO, Machine Learning, Rust,GraphQL, Django and Flask and much more...**
 
 - 🚀 My Portfolio link - [https://manojkumar.vercel.app/](https://manojkumar.vercel.app/)
 
